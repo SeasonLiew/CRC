@@ -3,7 +3,7 @@ cyclic redundancy check calculation (CRC)
 e.g. calculating the CRC appendix of 11001111110000110000000
 ``` 
 *1 1 0 0 1 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 
-@1 1 0 0 1 0 1 1 0 ---------------------------- 生成多项式
+@1 1 0 0 1 0 1 1 0 ---------------------------- generate multi-polynomial expression
 *          1 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 
 @----------1 1 0 0 1 0 1 1 0 ------------------
 *            1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 
